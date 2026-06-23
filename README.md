@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/images/career-coach-mascot-header.png" alt="A friendly AI career coach mascot reviewing a clipboard and index cards." width="900">
+</p>
+
 # Career Coach
 
 Career Coach is an evidence-first agent skill and Obsidian-friendly career operating system.
