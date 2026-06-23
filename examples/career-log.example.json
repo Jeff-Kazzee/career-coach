@@ -1,0 +1,43 @@
+{
+  "entries": [
+    {
+      "date": "2026-06-02",
+      "scores": {
+        "skill_strength": 2,
+        "proof_portfolio_strength": 1.5,
+        "resume_clarity": 2,
+        "search_consistency": 1,
+        "interview_readiness": 2,
+        "network_reach": 1,
+        "market_alignment": 2,
+        "professional_communication": 3,
+        "execution_consistency": 1.5,
+        "confidence_resilience": 2
+      },
+      "metrics": {
+        "applications_sent": 2,
+        "work_shipped": 0,
+        "commitments_planned": 3,
+        "commitments_completed": 1,
+        "energy_level": 2
+      }
+    },
+    {
+      "date": "2026-06-09",
+      "scores": {
+        "proof_portfolio_strength": 2,
+        "resume_clarity": 2.5,
+        "search_consistency": 2,
+        "execution_consistency": 2,
+        "confidence_resilience": 2.5
+      },
+      "metrics": {
+        "applications_sent": 4,
+        "work_shipped": 1,
+        "commitments_planned": 3,
+        "commitments_completed": 3,
+        "energy_level": 3
+      }
+    }
+  ]
+}

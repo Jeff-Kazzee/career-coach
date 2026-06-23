@@ -1,0 +1,27 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Local/private career records
+/private/
+/personal/
+/workspace/
+/outputs/
+/career-log*.json
+/career-log*.csv
+/scorecard-summary*.md
+*.local.md
+*.private.md
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

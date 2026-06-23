@@ -1,0 +1,102 @@
+[
+  {
+    "query": "I applied to 12 jobs and got no interviews. Help me figure out what's broken.",
+    "should_trigger": true,
+    "reason": "Job-search funnel diagnosis and career coaching request."
+  },
+  {
+    "query": "My resume's kind of a mess and I don't know what to cut for customer success jobs.",
+    "should_trigger": true,
+    "reason": "Casual resume-review request tied to a target role."
+  },
+  {
+    "query": "I have an interveiw tomorow for a junior QA role. Drill me and be blunt about my answers.",
+    "should_trigger": true,
+    "reason": "Typo-heavy but explicit interview practice request."
+  },
+  {
+    "query": "Weekly check-in: I shipped one project, sent four applications, avoided outreach, and had low energy. What should change next week?",
+    "should_trigger": true,
+    "reason": "Recurring career progress review with evidence and constraints."
+  },
+  {
+    "query": "I do solid work, but my manager never seems to notice it. Help me prepare for my performance review.",
+    "should_trigger": true,
+    "reason": "Work-performance, visibility, and review preparation."
+  },
+  {
+    "query": "I need online work I can do in short blocks because of a disability and unpredictable energy. Help me choose a realistic path.",
+    "should_trigger": true,
+    "reason": "Constraint-aware career-path planning, including nontraditional work."
+  },
+  {
+    "query": "How could I move from retail into entry-level data work without pretending I already have professional experience?",
+    "should_trigger": true,
+    "reason": "Career change, transferable-skill, and proof-gap planning."
+  },
+  {
+    "query": "Turn my scattered writing and automation skills into one small freelance offer I can test this month.",
+    "should_trigger": true,
+    "reason": "Freelance positioning and first paid-experiment design."
+  },
+  {
+    "query": "I have two offers. Help me compare pay, schedule, manager risk, accessibility, and growth before I decide.",
+    "should_trigger": true,
+    "reason": "Opportunity evaluation with career and constraint considerations."
+  },
+  {
+    "query": "I keep finishing courses, but my GitHub still doesn't make me look hireable. What proof am I missing?",
+    "should_trigger": true,
+    "reason": "Implicit skill-gap and portfolio-proof diagnosis."
+  },
+  {
+    "query": "Help me organize my grocery list by store aisle.",
+    "should_trigger": false,
+    "reason": "Productivity task unrelated to career outcomes."
+  },
+  {
+    "query": "Debug this Python function that returns the wrong total.",
+    "should_trigger": false,
+    "reason": "Software debugging request with no career-coaching intent."
+  },
+  {
+    "query": "Make me a daily cleaning schedule so my apartment stays tidy.",
+    "should_trigger": false,
+    "reason": "Generic planning request not tied to work or career."
+  },
+  {
+    "query": "I feel devastated after a breakup and need help processing it.",
+    "should_trigger": false,
+    "reason": "Emotional-support request outside career coaching."
+  },
+  {
+    "query": "My employer fired me. Tell me whether I can win a discrimination lawsuit.",
+    "should_trigger": false,
+    "reason": "Requests a definitive legal judgment; a career skill may help organize evidence only after redirecting to qualified counsel."
+  },
+  {
+    "query": "Calculate the self-employment tax I owe and tell me exactly what to file.",
+    "should_trigger": false,
+    "reason": "Definitive tax calculation and filing advice, not career coaching."
+  },
+  {
+    "query": "Should I buy this technology stock today?",
+    "should_trigger": false,
+    "reason": "Investment advice unrelated to career outcomes."
+  },
+  {
+    "query": "Write a funny scene where a dragon interviews for a castle-guard job.",
+    "should_trigger": false,
+    "reason": "Near-miss use of interview language in a creative-writing request."
+  },
+  {
+    "query": "How do I resume a video upload that paused at 63 percent?",
+    "should_trigger": false,
+    "reason": "Near-miss use of the word resume meaning continue, not a career document."
+  },
+  {
+    "query": "Give me ten interview questions for a podcast conversation with a musician.",
+    "should_trigger": false,
+    "reason": "Near-miss interviewing request unrelated to employment."
+  }
+]
