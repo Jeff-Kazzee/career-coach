@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/images/career-coach-mascot-header.png" alt="A friendly AI career coach mascot reviewing a clipboard and index cards." width="900">
+  <img src="docs/images/career-coach-mascot-header.png" alt="A friendly AI career coach mascot reviewing a clipboard and index cards." width="900">
 </p>
 
 # Career Coach
@@ -68,10 +68,10 @@ The scorecard script accepts JSON or CSV logs and prints a Markdown trend summar
 
 ```bash
 python scripts/scorecard.py examples/career-log.example.json
-python scripts/scorecard.py examples/career-log.example.csv --output examples/scorecard-summary.example.md
+python scripts/scorecard.py examples/career-log.example.csv --output scorecard-summary.md
 ```
 
-It uses only the Python standard library. It makes no network calls and writes nothing unless `--output` is supplied.
+It needs Python 3.8+ and is optional. It uses only the standard library, makes no network calls, and writes only to a new `.md` file given with `--output`. It refuses to overwrite the input log.
 
 ## Test
 

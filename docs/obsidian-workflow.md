@@ -68,12 +68,14 @@ Keep these in a private vault, never in a public repo:
 - Health, disability, benefit, immigration, tax, or legal details
 - Job applications and recruiter messages
 - Raw interview feedback tied to real people
-- Access tokens, account IDs, passwords, or private links
+- Private links
+
+Never keep passwords, logins, access tokens, or account exports anywhere in the Career Coach folder. Use a password manager. An agent that reads the folder sends what it reads to the model provider.
 
 ## Agent Prompt Starter
 
 ```text
-Use the career-coach skill. Read my Career Coach folder as context. Separate facts, assumptions, and missing information. Diagnose the current bottleneck, produce the useful artifact, and end with one bounded next action.
+Use the career-coach skill. Read Career Intake.md, Career Scorecard.md, and the newest file in Weekly Logs/. Ask before opening anything else. Separate facts, assumptions, and missing information. Diagnose the current bottleneck, produce the useful artifact, and end with one bounded next action.
 ```
 
 ## Good Review Questions

@@ -35,7 +35,7 @@ Do not ask the user to repeat information already available.
 
 ### 2. Collect the minimum useful intake
 
-Use `assets/career-intake-template.md`. Ask in one compact batch when possible. Essential fields are:
+Use `assets/career-intake-template.md`. Ask in one compact batch when possible, or one question at a time when the user prefers. Let the user skip any question. Essential fields are:
 
 - Current work and income situation
 - Target role, direction, or outcome
@@ -113,7 +113,7 @@ State alternate explanations when evidence is thin.
 
 ### 7. Score the current system
 
-Use `assets/career-scorecard-template.md`. Score only dimensions with enough evidence. A zero means unknown or not started; it does not mean the user has no value.
+Use `assets/career-scorecard-template.md`. Score only dimensions with enough evidence. Leave the rest `unknown`, and mark `n/a` when a dimension does not apply. A zero means assessed and not started, such as no applications sent yet. Report coverage with any average. Scores never measure a person's value.
 
 The lowest score is not automatically the priority. Pick the factor most likely to unlock the user's stated outcome within current constraints.
 

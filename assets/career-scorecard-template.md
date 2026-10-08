@@ -4,14 +4,16 @@ Scores prioritize action. They are not a grade of the person.
 
 ## Anchors
 
-- `0` — unknown or not started
+- `unknown` — not assessed yet; leave blank. Never averaged.
+- `n/a` — does not apply to the current goal. Never averaged.
+- `0` — assessed: absent or not started, with evidence
 - `1` — weak and mostly unsupported
 - `2` — emerging or inconsistent
 - `3` — credible for the target level
 - `4` — strong with repeated evidence
 - `5` — unusually strong and current
 
-Use `N/A` when a dimension does not apply. Record evidence for every score. Complete a full baseline and review monthly; change weekly scores only when evidence changes.
+Record evidence and its date for every score. Report coverage (assessed out of 10) with any average. Complete a full baseline and review monthly; change weekly scores only when evidence changes.
 
 ## Scorecard
 
@@ -72,7 +74,8 @@ Can the user act, learn, and recover from setbacks without confidence becoming a
 
 ## Priority decision
 
-- Lowest scores:
+- Coverage (assessed / unknown / n/a):
+- Lowest assessed scores:
 - Current funnel bottleneck:
 - Most leverageable dimension:
 - Primary focus for the next 30 days:

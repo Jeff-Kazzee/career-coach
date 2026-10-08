@@ -54,7 +54,7 @@ Suggested story labels: accomplishment, failure, conflict, teamwork, initiative,
 | Specificity/context |  |  |
 | Ownership |  |  |
 | Result/evidence |  |  |
-| Concision/delivery |  |  |
+| Concision |  |  |
 | Role relevance |  |  |
 | Truthfulness/consistency |  |  |
 

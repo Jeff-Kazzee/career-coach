@@ -90,9 +90,11 @@ Use this rubric, 0–3 each:
 - Specificity and context
 - Ownership of actions
 - Evidence or result
-- Concision and delivery
+- Concision (length fits the format)
 - Role relevance
 - Truthfulness and consistency
+
+From typed answers or transcripts, judge content only. Do not score fillers, repeated sounds, accent, pace, or assistive communication. Give delivery feedback only when the user asks and the role makes it relevant, and keep it out of the content score. Show item scores; if you give a total, add the items.
 
 Feedback format:
 

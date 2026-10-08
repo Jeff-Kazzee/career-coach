@@ -56,7 +56,8 @@ For each requirement, record:
 
 Use 0–3 for local comparison:
 
-- `0` no evidence or unknown
+- `unknown` not yet known (leave blank)
+- `0` assessed: no evidence of the skill
 - `1` basic exposure
 - `2` can perform with realistic support
 - `3` can perform independently at the target level with current evidence

@@ -80,7 +80,7 @@ Avoid universal response-rate claims. Compare similar roles, channels, seniority
 
 ### 6. Update the scorecard carefully
 
-Update a weekly score only when new evidence supports movement. Otherwise keep it unchanged or mark it unknown.
+Update a weekly score only when new evidence supports movement. Otherwise keep it unchanged. Unchanged is not a weakness, and a week of low output from a capacity change is not evidence that a score dropped.
 
 For each changed dimension, record:
 
@@ -93,7 +93,7 @@ Run `scripts/scorecard.py` when the user has structured weekly JSON or CSV and t
 
 ### 7. Set next week's commitments
 
-Choose no more than three outcome-linked commitments. Each needs:
+Default to three outcome-linked commitments. Plan more when the user asks, ranked so the lowest drop first in a short week. Plan at the capacity the user states. Each needs:
 
 - Deliverable
 - Definition of done
@@ -106,11 +106,11 @@ Capacity tiers:
 
 - **Minimum:** protects continuity and produces one useful artifact.
 - **Standard:** expected sustainable plan.
-- **Stretch:** optional only after standard work is complete.
+- **Stretch:** extra work for users who want more. Use it as the plan when the user asks for an intensive pace.
 
 ### 8. Give calibrated feedback
 
-The hard truth must identify a controllable mismatch or weak assumption—not insult the user.
+Include one hard truth only when the evidence shows a controllable mismatch or weak assumption. If there is none, say so in one line. Skip the section when the user opts out. It must never insult the user or blame them for a capacity change.
 
 Good:
 

@@ -19,7 +19,7 @@ The scorecard tests use temporary files and make no network calls.
 When the open Agent Skills reference validator is installed:
 
 ```bash
-skills-ref validate .
+agentskills validate .   (from the skills-ref package; the folder must be named career-coach)
 ```
 
 This checks `SKILL.md` frontmatter and naming conventions. Validator installation and command availability depend on the runtime; see https://agentskills.io/specification.
